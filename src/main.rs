@@ -244,7 +244,7 @@ const DEFAULT_CONFIG: &str = r##"# herdr configuration
 # Maximum sidebar width when expanded (columns)
 # sidebar_max_width = 36
 
-# Collapsed sidebar presentation: "compact" keeps the status rail, "hidden" removes it entirely.
+# Collapsed sidebar presentation: "compact" keeps the narrow status rail, "hidden" uses zero width.
 # sidebar_collapsed_mode = "compact"
 
 # Terminal width at or below which Herdr uses the mobile single-column layout.
